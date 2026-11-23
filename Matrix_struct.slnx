@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Matrix_struct/Matrix_struct.vcxproj" Id="51e7bb3c-59fc-493e-ab75-8c26b578ca46" />
+</Solution>
